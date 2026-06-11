@@ -538,17 +538,36 @@ p:last-child { margin-bottom: 0; }
   .nav-toggle { display: flex; }
   .hero { grid-template-columns: 1fr; min-height: auto; }
   .hero-content { padding: 3rem 2rem; order: 2; }
-  .hero-image { min-height: 55vw; order: 1; }
-  .split { grid-template-columns: 1fr; }
-  .split-image { min-height: 300px; order: -1; }
+  .hero-image { min-height: 70vw; order: 1; }
+  .split { grid-template-columns: 1fr !important; }
+  .split-image { min-height: 300px; order: -1 !important; }
   .split-content { padding: 3rem 2rem; }
   .split--reverse { direction: ltr; }
   .cards-3, .cards-2 { grid-template-columns: 1fr; }
   .testimonial-grid { grid-template-columns: 1fr; }
   .stats-strip { grid-template-columns: repeat(2, 1fr); }
+  .stat-item:nth-child(2) { border-right: none; }
   .footer-inner { grid-template-columns: 1fr; gap: 2rem; }
   .footer-bottom { flex-direction: column; text-align: center; }
   .section { padding: 3.5rem 0; }
   .section--lg { padding: 4rem 0; }
   .page-hero { padding: 4rem 0 3rem; }
+  /* Override any inline grid styles on split sections */
+  [style*="grid-template-columns: 1fr 1fr"],
+  [style*="grid-template-columns: 1fr 1.4fr"],
+  [style*="grid-template-columns: 1fr 1.2fr"],
+  [style*="grid-template-columns: 1fr 1fr; gap: 5rem"],
+  [style*="grid-template-columns: 2fr 1fr 1fr 1.5fr"] {
+    grid-template-columns: 1fr !important;
+  }
+  /* Contact page two-col */
+  .cards-2[style] { grid-template-columns: 1fr !important; }
+  /* Page hero CTA button */
+  .page-hero .btn { display: block; width: fit-content; margin-left: auto; margin-right: auto; }
+  /* Credential bar wrapping */
+  .cred-bar p { font-size: 0.72rem; }
+  /* Stats strip 2-col on mobile */
+  .stat-item:nth-child(even) { border-right: none; }
+  /* Cards padding */
+  .card { padding: 1.75rem; }
 }

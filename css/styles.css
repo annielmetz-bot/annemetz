@@ -92,31 +92,33 @@ p:last-child { margin-bottom: 0; }
 }
 .nav-logo {
   font-family: var(--serif);
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 500;
   color: var(--dark);
   white-space: nowrap;
 }
 .nav-links {
   display: flex;
-  gap: 2rem;
+  gap: 1.2rem;
   align-items: center;
 }
 .nav-links a {
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   font-weight: 500;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--muted);
   transition: color 0.2s;
+  white-space: nowrap;
 }
 .nav-links a:hover, .nav-links a.active { color: var(--dark); }
 .nav-cta {
   background: var(--purple);
   color: var(--white) !important;
-  padding: 0.5rem 1.2rem;
+  padding: 0.5rem 1rem;
   border-radius: 2px;
   transition: background 0.2s !important;
+  white-space: nowrap;
 }
 .nav-cta:hover { background: var(--purple-dark) !important; color: var(--white) !important; }
 

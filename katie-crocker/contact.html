@@ -1,167 +1,264 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact | Katie Crocker Benefits Management</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Katie Crocker | Employee Benefits Manager</title>
+  <meta name="description" content="Get in touch with Katie Crocker to discuss your employee benefits needs. Schedule a free 30-minute consultation." />
+  <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
 
-<nav>
-  <div class="nav-inner">
-    <a class="nav-logo" href="index.html">Katie Crocker <span>Benefits</span></a>
-    <ul class="nav-links">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="services.html">Services</a></li>
-      <li><a href="contact.html" class="active nav-cta">Get in Touch</a></li>
-    </ul>
-  </div>
-</nav>
+  <!-- NAVIGATION -->
+  <nav class="site-nav">
+    <div class="container">
+      <div class="nav-inner">
+        <a href="index.html" class="nav-brand">
+          <span class="brand-name">Katie Crocker</span>
+          <span class="brand-title">Benefits Manager</span>
+        </a>
 
-<div class="page-hero">
-  <h1>Get in Touch</h1>
-  <p>Ready to talk benefits? Let's start with a free 30-minute consultation.</p>
-</div>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+        <label for="nav-toggle" class="hamburger-label" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
 
-<section>
-  <div class="section-inner">
-    <div class="two-col" style="gap: 5rem;">
-      <div>
-        <p class="section-label">Send a Message</p>
-        <h2 class="section-title">Let's Talk About Your Organization</h2>
-        <p style="color: var(--gray); margin-bottom: 2rem;">Fill out the form and I'll get back to you within one business day. Or feel free to call or email directly.</p>
-
-        <form>
-          <div class="form-row">
-            <div class="form-group">
-              <label for="first-name">First Name</label>
-              <input type="text" id="first-name" placeholder="Jane">
-            </div>
-            <div class="form-group">
-              <label for="last-name">Last Name</label>
-              <input type="text" id="last-name" placeholder="Smith">
-            </div>
-          </div>
-          <div class="form-group">
-            <label for="email">Work Email</label>
-            <input type="email" id="email" placeholder="jane@company.com">
-          </div>
-          <div class="form-group">
-            <label for="company">Company Name</label>
-            <input type="text" id="company" placeholder="Acme Corporation">
-          </div>
-          <div class="form-row">
-            <div class="form-group">
-              <label for="employees">Number of Employees</label>
-              <select id="employees">
-                <option value="">Select range</option>
-                <option>1–25</option>
-                <option>26–100</option>
-                <option>101–500</option>
-                <option>501–2,000</option>
-                <option>2,000+</option>
-              </select>
-            </div>
-            <div class="form-group">
-              <label for="service">Service Interested In</label>
-              <select id="service">
-                <option value="">Select a service</option>
-                <option>Health &amp; Medical Plans</option>
-                <option>Open Enrollment Management</option>
-                <option>Retirement Plan Management</option>
-                <option>Compliance &amp; Reporting</option>
-                <option>Benefits Audit</option>
-                <option>Ongoing Retainer Support</option>
-                <option>Not Sure Yet</option>
-              </select>
-            </div>
-          </div>
-          <div class="form-group">
-            <label for="message">Tell me about your situation</label>
-            <textarea id="message" placeholder="What are your biggest benefits challenges right now? What's working, what isn't?"></textarea>
-          </div>
-          <button type="submit" class="btn btn-gold" style="width: 100%; justify-content: center;">Send Message</button>
-        </form>
-      </div>
-
-      <div>
-        <p class="section-label">Contact Info</p>
-        <h2 class="section-title">Prefer to Reach Out Directly?</h2>
-
-        <ul class="services-list" style="margin-top: 1.5rem; margin-bottom: 2.5rem;">
-          <li>
-            <div class="service-check">📧</div>
-            <div class="service-text">
-              <h4>Email</h4>
-              <p><a href="mailto:katie@katiecrocker.com" style="color: var(--gold);">katie@katiecrocker.com</a></p>
-            </div>
-          </li>
-          <li>
-            <div class="service-check">📞</div>
-            <div class="service-text">
-              <h4>Phone</h4>
-              <p><a href="tel:+15055550100" style="color: var(--gold);">(505) 555-0100</a></p>
-            </div>
-          </li>
-          <li>
-            <div class="service-check">🕐</div>
-            <div class="service-text">
-              <h4>Response Time</h4>
-              <p>I respond to all inquiries within one business day.</p>
-            </div>
-          </li>
-          <li>
-            <div class="service-check">📍</div>
-            <div class="service-text">
-              <h4>Location</h4>
-              <p>Based in the Southwest — serving clients nationwide via phone, video, and on-site visits.</p>
-            </div>
-          </li>
-        </ul>
-
-        <div style="background: var(--off-white); border-radius: 8px; padding: 1.75rem; border-left: 4px solid var(--gold);">
-          <h3 style="font-family: 'Playfair Display', serif; color: var(--navy); margin-bottom: 0.6rem;">Free Discovery Call</h3>
-          <p style="color: var(--gray); font-size: 0.95rem; margin-bottom: 1.25rem;">Not sure if you need benefits help or where to start? Book a free 30-minute call — no pitch, just a conversation about your organization's needs.</p>
-          <a href="#" class="btn btn-gold" style="font-size: 0.9rem; padding: 0.7rem 1.5rem;">Book a Call</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<footer>
-  <div class="footer-inner">
-    <div class="footer-grid">
-      <div>
-        <div class="footer-brand">Katie Crocker <span>Benefits</span></div>
-        <p class="footer-desc">Strategic employee benefits management for organizations that put their people first.</p>
-      </div>
-      <div>
-        <div class="footer-heading">Navigation</div>
-        <ul class="footer-links">
+        <ul class="nav-links">
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="services.html">Services</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <div class="footer-heading">Contact</div>
-        <ul class="footer-links">
-          <li><a href="mailto:katie@katiecrocker.com">katie@katiecrocker.com</a></li>
-          <li><a href="tel:+15055550100">(505) 555-0100</a></li>
-          <li><a href="#">LinkedIn</a></li>
+          <li><a href="contact.html" class="nav-cta active">Get in Touch</a></li>
         </ul>
       </div>
     </div>
-    <div class="footer-bottom">
-      <span>&copy; 2026 Katie Crocker Benefits Management. All rights reserved.</span>
-      <span>Employee Benefits Consulting</span>
+  </nav>
+
+  <!-- PAGE HERO -->
+  <section class="page-hero">
+    <div class="container">
+      <div class="page-hero-inner">
+        <nav class="breadcrumb" aria-label="breadcrumb">
+          <a href="index.html">Home</a>
+          <span>/</span>
+          <span>Contact</span>
+        </nav>
+        <span class="section-label">Get in Touch</span>
+        <h1 class="section-title">Let's Start a Conversation</h1>
+        <p class="section-subtitle">Whether you're looking to overhaul your benefits program, need help with open enrollment, or simply want a second opinion on your current plans — I'd love to hear from you.</p>
+      </div>
     </div>
-  </div>
-</footer>
+  </section>
+
+  <!-- CONTACT MAIN -->
+  <section class="contact-main">
+    <div class="container">
+      <div class="contact-grid">
+
+        <!-- FORM -->
+        <div class="contact-form-wrap">
+          <h2>Send Me a Message</h2>
+          <p>Fill out the form below and I'll get back to you within one business day. For urgent matters, please call directly at (555) 847-2190.</p>
+
+          <form action="#" method="post" novalidate>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="first-name">First Name <span style="color:var(--gold)">*</span></label>
+                <input type="text" id="first-name" name="first_name" placeholder="Jane" required />
+              </div>
+              <div class="form-group">
+                <label for="last-name">Last Name <span style="color:var(--gold)">*</span></label>
+                <input type="text" id="last-name" name="last_name" placeholder="Smith" required />
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="email">Work Email Address <span style="color:var(--gold)">*</span></label>
+              <input type="email" id="email" name="email" placeholder="jane.smith@yourcompany.com" required />
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="company">Company Name <span style="color:var(--gold)">*</span></label>
+                <input type="text" id="company" name="company" placeholder="Acme Corporation" required />
+              </div>
+              <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone" placeholder="(555) 000-0000" />
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="company-size">Company Size <span style="color:var(--gold)">*</span></label>
+                <select id="company-size" name="company_size" required>
+                  <option value="" disabled selected>Select range</option>
+                  <option value="1-25">1 – 25 employees</option>
+                  <option value="26-100">26 – 100 employees</option>
+                  <option value="101-500">101 – 500 employees</option>
+                  <option value="501-2000">501 – 2,000 employees</option>
+                  <option value="2001+">2,001+ employees</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="service">Primary Interest</label>
+                <select id="service" name="service">
+                  <option value="" disabled selected>Select a service</option>
+                  <option value="health">Health Insurance Design</option>
+                  <option value="retirement">Retirement Plan Administration</option>
+                  <option value="enrollment">Open Enrollment Management</option>
+                  <option value="compliance">Compliance &amp; Regulatory</option>
+                  <option value="education">Employee Education</option>
+                  <option value="benchmarking">Benefits Benchmarking</option>
+                  <option value="other">Other / Not Sure Yet</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="message">Tell Me About Your Needs <span style="color:var(--gold)">*</span></label>
+              <textarea id="message" name="message" placeholder="Describe your current benefits situation and what you're hoping to accomplish. The more detail you share, the more useful our first conversation will be." required></textarea>
+            </div>
+
+            <div class="form-group">
+              <label for="timeline">Desired Timeline</label>
+              <select id="timeline" name="timeline">
+                <option value="" disabled selected>When do you need help?</option>
+                <option value="asap">As soon as possible</option>
+                <option value="1month">Within 1 month</option>
+                <option value="3months">Within 3 months</option>
+                <option value="exploring">Just exploring options</option>
+              </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="width:100%; justify-content:center; padding:16px 32px; font-size:1rem;">
+              Send My Message
+            </button>
+            <p class="form-disclaimer">By submitting this form, you agree to be contacted regarding your inquiry. I respect your privacy and will never share your information with third parties.</p>
+          </form>
+        </div>
+
+        <!-- SIDEBAR -->
+        <aside class="contact-sidebar">
+          <div class="contact-info-card">
+            <h3>Contact Information</h3>
+            <p>Prefer to reach out directly? Here are the best ways to connect with me.</p>
+
+            <div class="contact-detail">
+              <div class="cd-icon">&#9993;</div>
+              <div class="cd-text">
+                <strong>Email</strong>
+                <span>katie@katiecrocker.com</span>
+              </div>
+            </div>
+
+            <div class="contact-detail">
+              <div class="cd-icon">&#128222;</div>
+              <div class="cd-text">
+                <strong>Phone</strong>
+                <span>(555) 847-2190</span>
+              </div>
+            </div>
+
+            <div class="contact-detail">
+              <div class="cd-icon">&#128205;</div>
+              <div class="cd-text">
+                <strong>Location</strong>
+                <span>Chicago, IL<br />Available nationwide &amp; remote</span>
+              </div>
+            </div>
+
+            <div class="contact-detail">
+              <div class="cd-icon">&#128337;</div>
+              <div class="cd-text">
+                <strong>Response Time</strong>
+                <span>Within 1 business day</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="availability-card">
+            <h4><span class="avail-dot"></span> Currently Accepting Clients</h4>
+            <div class="avail-row">
+              <span>Monday – Friday</span>
+              <span>8:00 AM – 5:00 PM CT</span>
+            </div>
+            <div class="avail-row">
+              <span>Initial Consultations</span>
+              <span>Free, 30 min</span>
+            </div>
+            <div class="avail-row">
+              <span>Engagements</span>
+              <span>Project &amp; Retainer</span>
+            </div>
+            <div class="avail-row">
+              <span>On-site Availability</span>
+              <span>Midwest &amp; Travel</span>
+            </div>
+            <div class="avail-row">
+              <span>Remote Support</span>
+              <span>Nationwide</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="brand-name">Katie Crocker</div>
+          <div class="brand-title">Benefits Manager</div>
+          <p>Helping organizations design and manage competitive employee benefits programs that attract top talent and keep teams engaged.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="services.html">Health Insurance</a></li>
+            <li><a href="services.html">Retirement Plans</a></li>
+            <li><a href="services.html">Open Enrollment</a></li>
+            <li><a href="services.html">Compliance</a></li>
+            <li><a href="services.html">Employee Education</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Contact</h4>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">&#9993;</span>
+            katie@katiecrocker.com
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">&#128222;</span>
+            (555) 847-2190
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">&#128205;</span>
+            Chicago, IL &amp; Remote
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 Katie Crocker. All rights reserved.</p>
+        <div class="footer-bottom-links">
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Use</a>
+        </div>
+      </div>
+    </div>
+  </footer>
 
 </body>
 </html>

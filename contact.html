@@ -104,32 +104,70 @@
           <form name="contact" method="POST" action="https://formspree.io/f/mykanzla" aria-label="Contact form" style="display: flex; flex-direction: column; gap: 1.2rem;">
             <input type="hidden" name="_subject" value="New consultation request — annemetz.com">
             <input type="hidden" name="_next" value="https://www.annemetz.com/thank-you.html">
+
+            <!-- Name -->
             <div>
               <label for="name" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Name</label>
               <input type="text" id="name" name="name" required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="Your name">
             </div>
+
+            <!-- Email -->
             <div>
               <label for="email" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Email</label>
               <input type="email" id="email" name="email" required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="your@email.com">
+              <label style="display: flex; align-items: flex-start; gap: 0.6rem; margin-top: 0.5rem; font-size: 0.85rem; color: var(--muted); cursor: pointer;">
+                <input type="checkbox" name="email_consent" value="yes" required style="margin-top: 2px; flex-shrink: 0;">
+                I consent to being contacted by email.
+              </label>
             </div>
+
+            <!-- Phone -->
             <div>
               <label for="phone" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Phone (optional)</label>
               <input type="tel" id="phone" name="phone" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="(720) 555-0000">
+              <label style="display: flex; align-items: flex-start; gap: 0.6rem; margin-top: 0.5rem; font-size: 0.85rem; color: var(--muted); cursor: pointer;">
+                <input type="checkbox" name="phone_consent" value="yes" style="margin-top: 2px; flex-shrink: 0;">
+                I consent to being contacted by phone or text.
+              </label>
             </div>
+
+            <!-- Age -->
             <div>
-              <label for="interest" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">I'm interested in</label>
-              <select id="interest" name="interest" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;">
-                <option value="">Select an option</option>
-                <option value="womens-therapy">Women's Therapy</option>
-                <option value="psilocybin">Psilocybin Facilitation (Colorado)</option>
-                <option value="integration">Psychedelic Preparation &amp; Integration</option>
-                <option value="unsure">Not sure yet</option>
-              </select>
+              <label for="age" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Age</label>
+              <input type="number" id="age" name="age" min="18" max="100" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="Your age">
             </div>
+
+            <!-- Location -->
             <div>
-              <label for="message" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Message</label>
-              <textarea id="message" name="message" rows="5" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px; resize: vertical;" placeholder="Tell me a little about what you're navigating and what you're looking for..."></textarea>
+              <label for="location" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Where do you live?</label>
+              <input type="text" id="location" name="location" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="City, State">
             </div>
+
+            <!-- Reason for interest -->
+            <div>
+              <label for="reason" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">What is your reason for interest in psilocybin work?</label>
+              <textarea id="reason" name="reason" rows="4" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px; resize: vertical;" placeholder="What are you hoping to work through or understand?"></textarea>
+            </div>
+
+            <!-- Prior experience -->
+            <div>
+              <label style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.6rem; color: var(--muted);">Have you used psilocybin or other psychedelics before?</label>
+              <div style="display: flex; gap: 1.5rem;">
+                <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.93rem; color: var(--text); cursor: pointer;">
+                  <input type="radio" name="prior_experience" value="yes"> Yes
+                </label>
+                <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.93rem; color: var(--text); cursor: pointer;">
+                  <input type="radio" name="prior_experience" value="no"> No
+                </label>
+              </div>
+            </div>
+
+            <!-- Prior experience description -->
+            <div>
+              <label for="prior_description" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">If yes, briefly describe</label>
+              <textarea id="prior_description" name="prior_description" rows="3" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px; resize: vertical;" placeholder="What did you use, when, and what was the experience like?"></textarea>
+            </div>
+
             <button type="submit" class="btn btn-primary" style="align-self: flex-start;">Send Message</button>
             <p style="font-size: 0.8rem; color: var(--muted);">I typically respond within one business day. For urgent concerns, please call or email directly.</p>
           </form>

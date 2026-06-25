@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MHC-670 Practicum Announcements</title>
+  <style>
+    body {
+      font-family: Lato, sans-serif;
+      font-size: 16px;
+      color: #000;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 24px;
+    }
+    .week-section {
+      margin-bottom: 60px;
+      padding-bottom: 40px;
+      border-bottom: 3px solid #333;
+    }
+    .week-section:last-child {
+      border-bottom: none;
+    }
+    .week-title {
+      font-size: 22px;
+      font-weight: bold;
+      background: #333;
+      color: #fff;
+      padding: 10px 16px;
+      border-radius: 4px;
+      margin-bottom: 1.2em;
+    }
+    h2 {
+      font-size: 17px;
+      margin-top: 1.5em;
+      margin-bottom: 0.4em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 4px;
+    }
+    ul {
+      margin: 0.4em 0 0.8em 0;
+      padding-left: 1.4em;
+    }
+    li {
+      margin-bottom: 0.5em;
+    }
+    .alert-red {
+      background: #ffe5e5;
+      border-left: 4px solid #cc0000;
+      padding: 6px 10px;
+      margin: 6px 0;
+      font-weight: bold;
+    }
+    .alert-yellow {
+      background: #fffbe5;
+      border-left: 4px solid #ccaa00;
+      padding: 6px 10px;
+      margin: 6px 0;
+    }
+    .alert-green {
+      background: #e8f5e9;
+      border-left: 4px solid #2e7d32;
+      padding: 6px 10px;
+      margin: 6px 0;
+      font-weight: bold;
+    }
+    .due-badge {
+      display: inline-block;
+      background: #cc0000;
+      color: #fff;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 1px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .section-label {
+      font-size: 13px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #555;
+      margin-top: 2em;
+      margin-bottom: 0.5em;
+    }
+    .screenshot {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin: 8px 0 16px 0;
+    }
+    hr.divider {
+      margin: 2em 0;
+      border: none;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!--  WEEK 1                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 1</div>
+
+  <iframe
+    src="/d2l/wcs/mp/mediaplayer.d2l?ou=6606&entryId=9646fc6c-d49c-41e0-b91c-9169755b3126&captionsEdit=False"
+    title="Week 1 hello"
+    width="100%"
+    height="379px"
+    style="max-width:518px; display:block; border:none; margin-bottom:1em;"
+    scrolling="no"
+    allowfullscreen>
+  </iframe>
+
+  <p>Greetings!</p>
+
+  <p>This week requires a lot of reading and orientation. Please take the time to do so — each of your journeys will be different. Below are the Practicum requirements for Week 1.</p>
+
+  <h2>Week 1 Tasks</h2>
+
+  <ul>
+    <li>Review Recording Requirements.</li>
+    <li>Complete the professional counseling identity development plan and share it with your site supervisor.</li>
+    <li>Upload the professional counseling identity development plan into SONIA.</li>
+    <li>Download the professional counseling identity development plan into Brightspace.</li>
+    <li>Complete your SONIA timesheet.</li>
+    <li>Attend group supervision session via Zoom: <a href="https://us02web.zoom.us/j/6934812189" rel="noopener">https://us02web.zoom.us/j/6934812189</a></li>
+  </ul>
+
+  <p>Looking forward to meeting you all this week!</p>
+
+  <p>Please bring your questions about these forms to class on <strong>Wednesday</strong>. In class we will cover:</p>
+
+  <ul>
+    <li>Hour requirements</li>
+    <li>Timesheets</li>
+    <li>Academic expectations
+      <ul>
+        <li>Class rules</li>
+        <li>Confidentiality</li>
+        <li>Case presentations</li>
+        <li>Weekly journals</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>Regards,<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 2                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 2</div>
+
+  <p>Hello Students,<br>Below are the tasks to be completed for week 2.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>
+      The presenting student will share a draft of your <a href="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/Updated_SNHU CMHC Comprehensive Case Conceptualization Template Guidence 2.2020 (1) (6) (1) DR.SPIRO PRAC (3).docx" target="_blank" rel="noopener">Case Conceptualization</a> in Brightspace 72 hours prior to faculty group supervision. <strong>You only need to complete the highlighted sections.</strong>
+      <ul>
+        <li>Post your case conceptualization form in the <strong>2-2 Comprehensive Case Conceptualization Draft Forum</strong> 72 hours before it is due (i.e., Saturday before class).</li>
+        <li>Each student will provide detailed written feedback to the assigned case — suggestions, answers to questions posed by the presenter, or your own questions about the case.</li>
+      </ul>
+    </li>
+
+    <li>
+      Upload journal into SONIA.
+      <div class="alert-yellow">Refer to the <strong>Week Two Journal Guidelines and Rubric</strong> in Brightspace. Answer the 6 questions in 3–6 sentences each. Ignore the 2–3 paragraph instruction — all journals going forward should be this length regardless of what the assignment says.</div>
+      <ul>
+        <li>For question 1: describe how you might find global labor information addressing clients' career/educational needs (e.g., Occupational Outlook Handbook / Bureau of Labor Statistics, or your state website).</li>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision sessions via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision <strong>with the approved site supervisor</strong>.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>Review the timesheet during supervision with your approved site supervisor and encourage them to approve it in SONIA.</li>
+      </ul>
+    </li>
+
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document is due in Week 8</strong>, completed by your approved site supervisor.</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Videos to share with your site supervisor:</strong>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+        <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p class="section-label">Looking Ahead</p>
+
+  <ul>
+    <li>
+      Complete the <a href="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/Consent to Work with Intern and Audio (1).docx" target="_blank" rel="noopener">Informed Consent to Tape</a> form. This form must be completed, signed, and retained by you.
+    </li>
+
+    <li>
+      <div class="alert-red">Record your tape counseling session in Brightspace → Week One → 1-4 Component One. Do NOT upload it in Week 5.</div>
+      <ul>
+        <li>
+          <div class="alert-red">The Week 5 task "5-4 Component One: Self-Analyzed Recording Transcript" is NOT where you upload the tape. Upload it ONLY in the Week 1 assignment "1-4 Component One" and leave it as <strong><em>Work in Progress</em></strong>. Do NOT submit it.</div>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      How-to links:
+      <ul>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=291f9dba1b7941d0920a539a234bcb59&sysparm_rank=5&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To Record in Bongo</a> — <strong>do not complete steps 16 and 17; do not submit the recording.</strong></li>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=6ae90afa1bf181d0920a539a234bcb80&sysparm_rank=4&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To – Upload and Do NOT Submit an Individual Assignment in Bongo</a></li>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=de2e05641b0870107edeeb10604bcbc2" rel="noopener">How To – Schedule a Meeting in Bongo</a></li>
+      </ul>
+    </li>
+
+    <li>
+      <div class="alert-green">Record your entire counseling session. The session must be a minimum of 30 minutes and represent a full session from start to finish.</div>
+    </li>
+
+    <li>Read the script found in the <strong>Week 5 Assignment Guidelines and Rubric</strong> → open the document → click <u>Self-Analyzed Recording Transcription</u>.</li>
+
+    <li><em>Do not submit any identifying information about your client, including their face. Violating ACA ethics or HIPAA will result in automatic failure. Use a pseudonym instead of the client's legal name.</em></li>
+
+    <li>
+      <div class="alert-yellow"><strong>Read the directions carefully. Do not submit the recording — leave it in Work in Progress.</strong></div>
+      <ul>
+        <li><strong>Do NOT contact technical support if you have difficulty. Contact me directly.</strong></li>
+      </ul>
+    </li>
+
+    <li>
+      Identify and transcribe your skills in Week Five (in SONIA). Upload a copy to Brightspace, due Week 5.
+      <ul>
+        <li>Organize skills in the order used, timestamped with minutes and seconds (must follow session order, no jumping around).</li>
+        <li>Transcribe the verbatim exchange between you and the client as evidence of each skill (Client → Counselor → Client).</li>
+      </ul>
+    </li>
+
+    <li><strong><em>At the end of the term, delete the recording. Do NOT contact technical support for help deleting it — contact me.</em></strong></li>
+  </ul>
+
+  <hr class="divider">
+
+  <p><strong><em><u>Wellness Tip</u></em></strong></p>
+
+  <p>Take a moment in your day to do nothing but sit and breathe in the present moment. Here's a short, 10-minute guided meditation — many other free options ranging from 3 minutes to several hours are available at the same channel.</p>
+  <p><a href="https://www.youtube.com/watch?v=EAwNUaKy_zE&t=10s" rel="noopener">10-Minute Guided Mindfulness Meditation (YouTube)</a></p>
+
+  <p>Please let me know if you have any questions.<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 3                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 3</div>
+
+  <p>Hello students,<br>Below are tasks to be completed for week 3.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>
+      The presenting student will share a draft of your Comprehensive Case Conceptualization in Brightspace 72 hours prior to faculty group supervision. The Case Conceptualization form was shared in Week 1 in the announcement section of the classroom.
+      <ul>
+        <li>In Week 3, you will see the <strong>3-2 Comprehensive Case Conceptualization Draft Forum</strong>. When it is your week to present, post your case conceptualization form in the forum.</li>
+        <li>Each student will provide detailed, quality written feedback to the assigned case.</li>
+        <li>All of us will share our insights when we meet for group supervision during your scheduled week.</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Make notes and revisions to your comprehensive case conceptualization. <span style="color:#c00;">Use a different color font</span> for any additions or changes</strong> (I am aware Brightspace says to use track changes — please use a different color font instead). Cut and paste or upload the case conceptualization in the <strong>8-5 assignment in Brightspace</strong>.
+    </li>
+
+    <li>
+      Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision <strong>with your approved site supervisor</strong>.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>By the end of this week, you should be close to <strong>30 total hours</strong> and <strong>12 direct counseling hours</strong>. We will discuss this during faculty group supervision.</li>
+      </ul>
+    </li>
+
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document is due in Week 8</strong>, completed by your approved site supervisor.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <p class="section-label">Looking Ahead</p>
+
+  <ul>
+    <li>
+      Complete the <strong>Informed Consent to Tape</strong> form. This form must be completed, signed, and retained by you.
+    </li>
+
+    <li>
+      <div class="alert-red">Record your tape counseling session in Brightspace → Week One → 1-4 Component One. Do NOT upload it in Week 5.</div>
+      <ul>
+        <li>
+          <div class="alert-red">The Week 5 task "5-4 Component One: Self-Analyzed Recording Transcript" is NOT where you upload the tape. Upload it ONLY in the Week 1 assignment "1-4 Component One" and leave it as <strong><em>Work in Progress</em></strong>. Do NOT submit it.</div>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      How-to links:
+      <ul>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=291f9dba1b7941d0920a539a234bcb59&sysparm_rank=5&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To Record in Bongo</a> — <strong>do not complete steps 16 and 17; do not submit the recording.</strong></li>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=6ae90afa1bf181d0920a539a234bcb80&sysparm_rank=4&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To – Upload and Do NOT Submit an Individual Assignment in Bongo</a></li>
+        <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=de2e05641b0870107edeeb10604bcbc2" rel="noopener">How To – Schedule a Meeting in Bongo</a></li>
+      </ul>
+    </li>
+
+    <li>
+      <div class="alert-green">Record your entire counseling session. The session must be a minimum of 30 minutes and represent a full session from start to finish.</div>
+    </li>
+
+    <li>Read the script found in the <strong>Week 5 Assignment Guidelines and Rubric</strong> → open the document → click <u>Self-Analyzed Recording Transcription</u>.</li>
+
+    <li><em>Do not submit any identifying information about your client. Violating ACA ethics or HIPAA will result in automatic failure. Use a pseudonym instead of the client's legal name.</em></li>
+
+    <li>
+      Read directions carefully. <strong>Do not submit the recording — leave it in Work in Progress.<br>Do NOT contact technical support if you have difficulty — contact me directly.</strong>
+    </li>
+
+    <li>
+      Identify and transcribe your skills in Week Five (in SONIA). The Self-Analyzed Recording form is in SONIA. Complete the form and upload a copy to Brightspace, due Week 5.
+      <ul>
+        <li>Organize skills in the order used, timestamped with minutes and seconds (must follow session order, no jumping around).</li>
+        <li>Transcribe the verbatim exchange between you and the client as evidence of each skill (Client → Counselor → Client).</li>
+        <li><strong><em>At the end of the term, delete the recording. Do NOT contact technical support for help deleting it — contact me.</em></strong></li>
+      </ul>
+    </li>
+  </ul>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <p>Spend some time outdoors — researchers have found that being outside has real health benefits. How much time do you need? Check out this short article for the answer:</p>
+  <p><a href="https://www.nytimes.com/2019/06/13/health/nature-outdoors-health.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbcoohkTlUaACbVUNEjsh3Bg_HT3aYxw3jjMCSSTixZiuQYCoyc-wHNea9nLZMV7giseeVgYvUpVeAgiahWJVBsQA2l5caJlcpUeXlv7InuUjJzgpyRAfUxoGThKzDpc7tylePmtEnbaHL4G_CKiQ1XLwhjo5NvcVygyCZIkv-DSrgpr4E4ifQxBZl6RSMCbT2It5TqChZ8PNaFZnLM-1V8GrEZCXyIw4nqu_9Xex5SCFnFUHp1_W09jdpeM9oQN639RAUyRDooUUDqbst-fofin8hHog&smid=url-share" rel="noopener">How Much Nature Is Enough? 120 Minutes a Week, Doctors Say</a></p>
+
+  <p>Please let me know if you have any questions. See you in our weekly group supervision meeting!<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 4                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 4</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 4.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>
+      The presenting student will share a draft of your Comprehensive Case Conceptualization in Brightspace 72 hours prior to faculty group supervision. The Case Conceptualization form was shared in Week 1 in the announcement section of the classroom.
+    </li>
+
+    <li>
+      Post your case conceptualization form in the <strong>Comprehensive Case Conceptualization Draft Forum</strong> in Brightspace when it is your week to present.
+      <ul>
+        <li>Each student will provide detailed, quality written feedback to the assigned case.</li>
+      </ul>
+    </li>
+
+    <li>
+      Make notes and revisions to your comprehensive case conceptualization. <strong><span style="color:#c00;">Use a different color font</span> for any additions or changes</strong> (Brightspace says track changes, but please use a different color font instead). Cut and paste or upload the final version in the <strong>8-5 assignment in Brightspace</strong>.
+    </li>
+
+    <li>
+      Complete the journal in SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></li>
+        <li>Review the timesheet during supervision with your approved site supervisor.</li>
+        <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <ul>
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document is due in Week 8</strong>, completed by your approved site supervisor.</li>
+      </ul>
+    </li>
+
+    <li>
+      Complete the <strong>Informed Consent to Tape</strong> form (see attachment). This form must be completed, signed, and retained by you.
+    </li>
+
+    <li>Record your tape counseling session in Brightspace → Week One → 1-4 Component One.</li>
+  </ul>
+
+  <div class="alert-red">
+    Record your tape counseling session in Brightspace, Week One, 1-4 Component One — NOT in Week 5.
+  </div>
+
+  <div class="alert-red" style="margin-top:8px;">
+    The Week 5 task "5-4 Component One: Self-Analyzed Recording Transcript" is NOT where you upload the tape. Upload it ONLY in the Week 1 assignment "1-4 Component One" and leave it as <strong><em>Work in Progress</em></strong>. Do NOT submit it.
+  </div>
+
+  <p style="margin-top:1em;"><strong>How-to links:</strong></p>
+  <ul>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=291f9dba1b7941d0920a539a234bcb59&sysparm_rank=5&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To Record in Bongo</a> — <strong>do not complete steps 16 and 17; do not submit the recording.</strong></li>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=6ae90afa1bf181d0920a539a234bcb80&sysparm_rank=4&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To – Upload and Do NOT Submit an Individual Assignment in Bongo</a></li>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=de2e05641b0870107edeeb10604bcbc2" rel="noopener">How To – Schedule a Meeting in Bongo</a></li>
+  </ul>
+
+  <div class="alert-green">
+    Record your entire counseling session. The session must be a <u>minimum</u> of 30 minutes and represent a full and complete session from start to finish.
+  </div>
+
+  <ul style="margin-top:1em;">
+    <li><em>Read the script</em> found in the <strong>Week 5 Assignment Guidelines and Rubric</strong> → 5-4 Assignment → click <u>Self-Analyzed Recording Transcription</u>.</li>
+    <li><em>Do not submit any identifying information about your client, including their face. Violating ACA ethics or HIPAA will result in automatic failure. Use a pseudonym instead of the client's legal name.</em></li>
+    <li>Read directions carefully. <strong>Do not submit the recording — leave it in Work in Progress. Do NOT contact technical support if you have difficulty — contact me directly.</strong></li>
+    <li>
+      Identify and transcribe your skills in Week Five (in SONIA). The Self-Analyzed Recording form is in SONIA. Complete the form and upload a copy to Brightspace, due Week 5.
+      <ul>
+        <li>Organize skills in the order used, timestamped with minutes and seconds (must follow session order — no jumping around).</li>
+        <li>Transcribe the verbatim exchange between you and the client as evidence of each skill (Client → Counselor → Client).</li>
+      </ul>
+    </li>
+    <li><strong><em>At the end of the term, delete the recording. Do NOT contact technical support for help deleting it — contact me.</em></strong></li>
+  </ul>
+
+  <div class="alert-yellow">
+    In the classroom, go to Week 5 and click on the <strong>Week 5 Assignment Guidelines and Rubric</strong> in the 5-4 Assignment as shown here:
+  </div>
+  <img class="screenshot"
+    src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_a97c831e23a043e4a8365d6f421bf217_image_17931034841688400766864.png"
+    alt="Screenshot showing where to find the Week 5 Assignment Guidelines and Rubric">
+
+  <div class="alert-yellow">
+    Once you open this document, click on <u>SELF-ANALYZED RECORDING TRANSCRIPTION</u> as shown here:
+  </div>
+  <img class="screenshot"
+    src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_ea642cbf109f453dacb7e1fd1206b584_image_54520894931688400766864.png"
+    alt="Screenshot showing the Self-Analyzed Recording Transcription link in the document">
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip of the Week</p>
+
+  <img src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_a261df064c364ce3aa180293b73f9a5e_image_61770625721688400766861.jpg"
+    alt="Nature wellness image"
+    style="max-width:290px; height:auto; display:block; margin-bottom:12px;">
+
+  <p>Talk to a friend this week, even if it's only a five-minute call to say hello. Did you know that friendship has real health and wellness benefits? Learn more: <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/friendships/art-20044860" rel="noopener">Mayo Clinic — The health benefits of friendship</a></p>
+
+  <p>Have a fabulous week and see you in our weekly group supervision meeting!<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 5                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 5</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 5.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>
+      Video recording and the <em>Self-Analyzed Recording Transcription Form</em> are due this week.
+      <ul>
+        <li>Be sure you have a signed Informed Consent to Tape form — retain this document.</li>
+        <li>
+          <div class="alert-red">Record your tape counseling session in Brightspace → Week One → 1-4 Component One. NOT in Week 5.</div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+  <div class="alert-red">
+    The Week 5 task "5-4 Component One: Self-Analyzed Recording Transcript" is NOT where you upload the tape. Upload it ONLY in the Week 1 assignment "1-4 Component One" and leave it as <strong><em>Work in Progress</em></strong>. Do NOT submit it.
+  </div>
+
+  <p style="margin-top:1em;"><strong>How-to links:</strong></p>
+  <ul>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=291f9dba1b7941d0920a539a234bcb59&sysparm_rank=5&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To Record in Bongo</a> — <strong>do not complete steps 16 and 17; do not submit the recording.</strong></li>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=6ae90afa1bf181d0920a539a234bcb80&sysparm_rank=4&sysparm_tsqueryId=f02892c41b8acd54d7fdedf1b24bcb3a" rel="noopener">How To – Upload and Do NOT Submit an Individual Assignment in Bongo</a></li>
+    <li><a href="https://snhu.service-now.com/kb_view.do?sys_kb_id=de2e05641b0870107edeeb10604bcbc2" rel="noopener">How To – Schedule a Meeting in Bongo</a></li>
+  </ul>
+
+  <p><strong>Do NOT contact technical support if you have difficulty with this assignment — contact me directly.</strong></p>
+
+  <p><em>Be sure to review the Practicum Comprehensive Performance Guidelines and Rubric document.</em></p>
+
+  <div class="alert-green">
+    Record your entire counseling session. The session must be a <u>minimum</u> of 30 minutes and represent a full and complete session from start to finish.
+  </div>
+
+  <ul>
+    <li>Read the script for verbal consent and to ensure you do not submit any identifying information about your client. Submitting identifying information (including the client's face) will result in automatic failure for violating ACA ethics and HIPAA. Use a pseudonym instead of the client's legal name.</li>
+    <li>Read the directions carefully.</li>
+    <li>Identify and transcribe your skills in Week Five (in SONIA). The Self-Analyzed Recording form is in SONIA — complete the form and upload a copy to Brightspace, due Week 5.
+      <ul>
+        <li>Organize skills in the order used, timestamped with minutes and seconds (must follow session order — no jumping around).</li>
+        <li>Transcribe the verbatim exchange between you and the client as evidence of each skill (Client → Counselor → Client).</li>
+      </ul>
+    </li>
+    <li><strong><em>At the end of the term, delete the recording. Do NOT contact technical support for help deleting it — contact me.</em></strong></li>
+  </ul>
+
+  <p>
+    Make notes and revisions to your comprehensive case conceptualization.
+    <strong><span style="color:#c00;">Use a different color font</span> for any additions or changes</strong>
+    (Brightspace says track changes, but please use a different color font instead).
+    Cut and paste or upload the final version in the <strong>8-5 assignment in Brightspace</strong>.
+  </p>
+
+  <ul>
+    <li>
+      Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+    <li><strong>Attend faculty group supervision session via Zoom — NOT THIS WEEK.</strong></li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></li>
+        <li>Review the timesheet during supervision with your approved site supervisor.</li>
+        <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p class="section-label">Looking Ahead</p>
+
+  <img src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_4bf68a4f7bea47b1a799fc87dfbb0fb5_image_57225014731688401043063.jpg"
+    alt="Looking ahead image"
+    style="max-width:280px; height:auto; display:block; margin-bottom:12px;">
+
+  <ul>
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document is due in Week 8</strong>, completed by your approved site supervisor.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <img src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_579410be89ce4574b9da53d9df44f8ca_image_87563795421688401043062.jpg"
+    alt="Wellness tip image"
+    style="max-width:290px; height:auto; display:block; margin-bottom:12px;">
+
+  <p>Remember that counselors do not have to be perfect or "superheroes" — they simply have to be genuine, caring, and competent professionals who also take care of themselves. Here's a great article from <em>Counseling Today</em>:
+    <br><a href="https://ct.counseling.org/2019/09/counselors-as-human-beings-not-superheroes/" rel="noopener">Counselors as Human Beings, Not Superheroes</a>
+  </p>
+
+  <p><strong>Reminder: No group supervision this week!</strong></p>
+
+  <p>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 6                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 6</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 6.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>
+      By the end of this week, submit the hours you have accrued to date in the <strong>Hours Checkpoint "quiz."</strong>
+      <div class="alert-yellow">Note: you can only take the quiz once. The purpose is for both you and me to review your progress toward the required practicum hours.</div>
+    </li>
+
+    <li>
+      The presenting student will share a draft of your Comprehensive Case Conceptualization in Brightspace 72 hours prior to faculty group supervision. The Case Conceptualization form was shared in Week 1 in the announcement section of the classroom.
+    </li>
+
+    <li>
+      Post your case conceptualization form in the <strong>Comprehensive Case Conceptualization Draft Forum</strong> in Brightspace when it is your week to present. Each student will provide detailed, quality written feedback to the assigned case.
+    </li>
+
+    <li>
+      Make notes and revisions to your comprehensive case conceptualization. <strong><span style="color:#c00;">Use a different color font</span> for any additions or changes</strong> (Brightspace says track changes, but please use a different color font instead). Cut and paste or upload the final version in the <strong>8-5 assignment in Brightspace</strong>.
+    </li>
+
+    <li>Review the <strong>Practicum Comprehensive Performance Guidelines and Rubric</strong> document in preparation for your Week 8 submission.</li>
+
+    <li>
+      Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>Review the timesheet during supervision with your approved site supervisor.</li>
+        <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p class="section-label">Looking Ahead</p>
+
+  <img src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_dfcea148c04d4875ad5cfe917f385c97_image_48751772431688401178991.jpg"
+    alt="Looking ahead image"
+    style="max-width:280px; height:auto; display:block; margin-bottom:12px;">
+
+  <ul>
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document MUST be completed and submitted in Week 8</strong> by your approved site supervisor.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <p><strong><em>At the end of the term, delete the taped counseling session. Do NOT contact technical support for help deleting it — contact me.</em></strong></p>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <img src="/content/enforced/2366034-MHC-670-11035-MHC-670I-11613.202657-1/File_abf10b7b3b92404ba973a1c5d6f6cb17_image_59044868821688401178987.jpg"
+    alt="Wellness tip image"
+    style="max-width:290px; height:auto; display:block; margin-bottom:12px;">
+
+  <p>Read about challenging your negative thoughts and other tips to increase your happiness: <a href="https://www.nytimes.com/guides/well/how-to-be-happy" rel="noopener">How to Be Happy — NYT Well</a></p>
+
+  <p>Please let me know if you have any questions. See you in our weekly group supervision meeting!<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 7                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 7</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 7.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li>Respond to <em>my written feedback</em> on the Self-Analyzed Recording Transcription Form in SONIA.</li>
+
+    <li>
+      The presenting student will share a draft of your Comprehensive Case Conceptualization in Brightspace 72 hours prior to faculty group supervision. The Case Conceptualization form was shared in Week 1 in the announcement section of the classroom.
+    </li>
+
+    <li>
+      Post your case conceptualization form in the <strong>Comprehensive Case Conceptualization Draft Forum</strong> in Brightspace when it is your week to present. Each student will provide detailed, quality written feedback to the assigned case.
+    </li>
+
+    <li>
+      Make notes and revisions to your comprehensive case conceptualization. <strong><span style="color:#c00;">Use a different color font</span> for any additions or changes</strong> (Brightspace says track changes, but please use a different color font instead). Cut and paste or upload the final version in the <strong>8-5 assignment in Brightspace</strong>.
+    </li>
+  </ul>
+
+  <p>Remember that you will be submitting your <strong>final draft of your case conceptualization in Week 8</strong>. Review the Practicum Comprehensive Guidelines and Rubric document (in Week 8) to prepare for your submission.</p>
+
+  <ul>
+    <li>
+      Encourage your approved site supervisor to review and provide written feedback in SONIA on the <strong>CDCS form</strong>.
+      <ul>
+        <li>This is a working document. The <strong>final document MUST be completed and submitted next week (Week 8)</strong> by your approved site supervisor.</li>
+      </ul>
+    </li>
+
+    <li>
+      Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>Review the timesheet during supervision with your approved site supervisor.</li>
+        <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <p><strong><em>At the end of the term, delete the taped counseling session. Do NOT contact technical support for help deleting it — contact me.</em></strong></p>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <p>Check out this article on "How to Get Things Done When You Don't Want to Do Anything," including tips like practicing self-compassion: <a href="https://www.nytimes.com/2021/07/28/well/live/motivation-energy-advice.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohkT1UZCybKUNwj6RiHg_SIxLUhiX_iITLQTD9Tiu4YRoWO9UrGeat9ap420jiaT95HPfohQ-Y30u9SJEEoVxO5o52L3YgEJigu74KvW2d8l7T8YYcFyx64JG-oNLU4g7SloxONNDX3XqPd13BxLQh6o5MzfUWt3XAN2qeUReFq09B_3v0iUstxR29XdzDK66ezc2h2PtiHbhDb7wgkCaoOCXyIw4nqu_9Xex5SCFnFUHp0_W0-jdpcM94QN638RAUyLIu82f5CTzw1c_r6QsE5VIPWlL11sbfSqBHqycG-wvk-F648r6qzZydf_C1sVqFbOl6EaI7y" rel="noopener">How to Get Things Done When You Don't Want to Do Anything — NYT Well</a></p>
+
+  <p>Please let me know if you have any questions!<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 8                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 8</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 8.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <ul>
+    <li><span class="due-badge">Due</span> CDCS form in SONIA, with written feedback from your approved site supervisor.</li>
+
+    <li><span class="due-badge">Due</span> Submit Final Comprehensive Case Conceptualization Form.
+      <ul>
+        <li>Make notes and revisions using <strong><span style="color:#c00;">a different color font</span></strong> for any additions or changes (Brightspace says track changes, but please use a different color font instead). Cut and paste or upload the final version in the <strong>8-5 assignment in Brightspace</strong>.</li>
+      </ul>
+    </li>
+
+    <li><span class="due-badge">Due</span> Respond to my written feedback on the Self-Analyzed Recording Transcription Form in SONIA. Upload this form as a <strong>PDF</strong> into Brightspace for grading.</li>
+
+    <li>
+      <span class="due-badge">Due</span> Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+
+    <li>
+      Attend individual/triadic weekly supervision with your approved site supervisor.
+      <ul>
+        <li>Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.</li>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>Review the timesheet during supervision with your approved site supervisor.</li>
+        <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Videos to share with your site supervisor:</strong>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+        <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+      </ul>
+    </li>
+
+    <li><strong><em>At the end of the term, delete the taped counseling session. Do NOT contact technical support for help deleting it — contact me.</em></strong></li>
+  </ul>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <p>Most of us in this profession sit a lot. Check out this study about the benefits of short bits of exercise — it recommends moving every 30 minutes. If you are doing 50-minute sessions, consider some jumping jacks or a quick walk down the hall between sessions. Can't leave your chair? Try chair aerobics: <a href="https://youtu.be/YdPu_IW3AbA?si=Wq2szdtTF0-MU4WP" rel="noopener">Exercise for 3 Minutes… to Counter the Ill Effects of Sitting</a></p>
+
+  <p>See you in group supervision! Please let me know if you have any questions.<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 9                                                       -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 9</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 9.</p>
+
+  <h2>SONIA Timesheet</h2>
+
+  <ul>
+    <li>
+      This week you will do final checks to ensure you have completed all required hours and entered them into your timesheet in preparation for your approved site supervisor to sign off. <strong>If you discover you will not earn your hours by Friday of Week 10, please let me know immediately</strong> so we can discuss your next steps to continue the field experience or graduate.
+    </li>
+
+    <li><span class="due-badge">Due</span> Submit a response to my written feedback on the Self-Analyzed Recording Transcription Form in SONIA.</li>
+
+    <li>
+      Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.
+      <ul>
+        <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+      </ul>
+    </li>
+
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+
+    <li>
+      Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.
+      <ul>
+        <li>
+          <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+        </li>
+        <li>Review the timesheet during supervision with your approved site supervisor and encourage them to review and approve hours in SONIA. <strong>All time must be approved by your approved site supervisor by the last day of the term in order for you to move on to internship.</strong></li>
+      </ul>
+    </li>
+  </ul>
+
+  <div class="alert-red">
+    Remind your site supervisor to complete their portion of the CDCS in SONIA. It must be completed for you to move on to internship.
+  </div>
+
+  <p style="margin-top:1em;"><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <div class="alert-red">
+    <p style="margin:0 0 6px 0;"><em>If you have no questions or concerns regarding the feedback on your taped session transcription, delete the taped counseling session from all devices.</em></p>
+    <p style="margin:0 0 6px 0;">Do NOT contact technical support if you have difficulty deleting it — contact me directly.</p>
+    <p style="margin:0;">All taped counseling sessions must be deleted no later than our last faculty group supervision meeting. If your taped counseling session is not deleted, you will not matriculate to internship.</p>
+  </div>
+
+  <hr class="divider">
+
+  <p class="section-label">Wellness Tip</p>
+
+  <p>Laugh! Turns out laughter really is good medicine: <a href="https://www.nytimes.com/2020/10/01/well/mind/laughter-may-be-effective-medicine-for-these-trying-times.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfq4hlSFUbAibKUNwj6RiHg_SIxLUhiX_iITLQTD9Tiu4YRoWO9UrGeat9ap420jiaT95HPfohQ-Y30u9SJEEoVxO5o52L3YgEJigu74KvW2d8l7T8YYcFyx64JG-oNLU4g7SloxONNDX3XqPd13BxLQh6o5MzfUWt3XAN2qeUReFq09B_3v0iUstxR29XdzDK66ezc2h2PtiHbhDb7wgkCaoOCXyIw4nqu_9Xex5SCFnFUHp0_W0-jdpcM94QN638RAUyLIu82f5CTzw1c_r6QsE5VIPWlL11sbfSqBHqycG-wvk-F648r6qzZydf_C1sVqFbOl6EaI7y&smid=url-share" rel="noopener">Laughter May Be Effective Medicine for These Trying Times</a></p>
+
+  <p>Please let me know if you have any questions!<br>Dr. Metz</p>
+</div>
+
+
+<!-- ============================================================ -->
+<!--  WEEK 10                                                      -->
+<!-- ============================================================ -->
+<div class="week-section">
+  <div class="week-title">Week 10</div>
+
+  <p>Hello Students,<br>Below are tasks to be completed for week 10.</p>
+
+  <h2>Practicum Student Tasks</h2>
+
+  <div class="alert-red">
+    EVERYTHING IS DUE ON FRIDAY — NOT SUNDAY. This gives us a few days to fix anything that needs attention.
+  </div>
+
+  <p>This week you will do final checks to ensure you have completed all required hours and entered them into your timesheet in preparation for your approved site supervisor to sign off. <strong>If you discover you will not earn your hours by Friday of Week 10, please let me know immediately so we can discuss your next steps to continue the field experience.</strong></p>
+
+  <h2>SONIA Timesheet</h2>
+
+  <ul>
+    <li>Approved site supervisor to review and approve timesheet in SONIA.</li>
+    <li>Enter your hours on the timesheet in SONIA. Cannot miss a week of not accruing hours.</li>
+    <li>
+      <div class="alert-yellow">Double-check timesheet entries before submitting — make sure you are entering hours for practicum. Watch this video: <a href="https://youtu.be/Nt20V6jRSyU" rel="noopener">https://youtu.be/Nt20V6jRSyU</a></div>
+    </li>
+    <li>Review the timesheet during supervision with your approved site supervisor.</li>
+    <li>Encourage your approved site supervisor to review and approve hours in SONIA.</li>
+    <li><span class="due-badge">Due</span> Submit a completed timesheet into Brightspace.</li>
+    <li><span class="due-badge">Due</span> Complete assignment acknowledgement.</li>
+  </ul>
+
+  <h2>Journal</h2>
+
+  <ul>
+    <li>Upload journal into SONIA — refer to the <strong>Journal Guidelines and Rubric in Brightspace</strong>.</li>
+    <li>Download the journal from SONIA and upload it as a <strong>PDF</strong> into Brightspace for grading.</li>
+  </ul>
+
+  <h2>Taped Counseling Session</h2>
+
+  <div class="alert-red">
+    <p style="margin:0 0 6px 0;"><em>The taped counseling session MUST be deleted from all devices.</em></p>
+    <p style="margin:0;">Do NOT contact technical support if you have difficulty deleting it — contact me directly.</p>
+  </div>
+
+  <h2>Supervision</h2>
+
+  <ul>
+    <li>Attend faculty group supervision session via Zoom.</li>
+    <li>Attend individual/triadic weekly supervision with your approved site supervisor.</li>
+  </ul>
+
+  <p><strong>Videos to share with your site supervisor:</strong></p>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=1s8xmOLleOE" rel="noopener">Approving Time Sheets</a> — a brief demonstration on how to approve students' time sheets.</li>
+    <li><a href="https://www.youtube.com/watch?v=Bl4cLUM1a14" rel="noopener">Completing the CDCS</a> — a short demonstration to assist with completing the student's CDCS form.</li>
+  </ul>
+
+  <p>Please let me know if you have any questions!<br>Dr. Metz</p>
+</div>
+
+</body>
+</html>

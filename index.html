@@ -46,6 +46,63 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Dr. Anne Metz — Legal Psilocybin Facilitation for Women",
+    "url": "https://www.annemetz.com/",
+    "description": "Legal psilocybin facilitation for women in Denver, Colorado, with licensed therapist and psilocybin facilitator Dr. Anne Metz, PhD, LPC."
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is psilocybin facilitation legal in Colorado?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Colorado voters passed Proposition 122 in 2022, creating a regulated program for the supervised therapeutic use of psilocybin. Sessions take place at state-licensed healing centers with state-licensed facilitators. Dr. Metz holds Colorado Natural Medicine Facilitator License No. NMIT.0000254."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who is psilocybin facilitation with Dr. Metz for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Metz works with women navigating significant thresholds — perimenopause and menopause, infertility and reproductive grief, other grief and loss, identity questions, and major life transitions. She is a licensed professional counselor with a PhD in counselor education, so every stage of the work is clinically grounded."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to live in Colorado to work with Dr. Metz?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. The full-day medicine session must take place in person in Colorado, and clients travel from anywhere for it. Preparation and integration sessions are available to anyone via telehealth. New Mexico facilitation is expected to begin in January 2027."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does psilocybin facilitation cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A full course of facilitation — two preparation sessions, one full-day medicine session at Numia Healing Center in Denver, and two integration sessions — starts at $3,500, including access to the licensed healing center. Insurance is not accepted for facilitation services."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I get started?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Schedule a free 15-minute consultation at annemetz.com/contact.html, email hello@annemetz.com, or call (720) 248-7368. The consultation covers your situation, whether psilocybin facilitation is a good fit, and what working together would look like."
+        }
+      }
+    ]
+  }
+  </script>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
 </head>
 <body>
@@ -247,6 +304,38 @@
     </div>
   </section>
 
+  <!-- FAQ -->
+  <section class="section section--warm" aria-labelledby="faq-home-heading">
+    <div class="container">
+      <div class="section-heading">
+        <span class="eyebrow">FAQ</span>
+        <h2 id="faq-home-heading">Common questions</h2>
+      </div>
+      <div class="faq-list">
+        <div class="faq-item open">
+          <div class="faq-question" tabindex="0" role="button" aria-expanded="true">Is psilocybin facilitation legal in Colorado?</div>
+          <div class="faq-answer">Yes. Colorado voters passed Proposition 122 in 2022, creating a regulated program for the supervised therapeutic use of psilocybin. Sessions take place at state-licensed healing centers with state-licensed facilitators. I hold Colorado Natural Medicine Facilitator License No. NMIT.0000254.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question" tabindex="0" role="button" aria-expanded="false">Who is this work for?</div>
+          <div class="faq-answer">I work with women navigating significant thresholds — perimenopause and menopause, infertility and reproductive grief, other grief and loss, identity questions, and major life transitions. I'm a licensed professional counselor with a PhD in counselor education, so every stage of the work is clinically grounded.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question" tabindex="0" role="button" aria-expanded="false">Do I have to live in Colorado?</div>
+          <div class="faq-answer">No. The full-day medicine session must take place in person in Colorado, and clients travel from anywhere for it. Preparation and integration sessions are available to anyone via telehealth. New Mexico facilitation is expected to begin in January 2027.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question" tabindex="0" role="button" aria-expanded="false">How much does psilocybin facilitation cost?</div>
+          <div class="faq-answer">A full course of facilitation — two preparation sessions, one full-day medicine session at Numia Healing Center in Denver, and two integration sessions — starts at $3,500, including access to the licensed healing center. Insurance is not accepted for facilitation services.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-question" tabindex="0" role="button" aria-expanded="false">How do I get started?</div>
+          <div class="faq-answer">Schedule a <a href="contact.html">free 15-minute consultation</a>, email <a href="mailto:hello@annemetz.com">hello@annemetz.com</a>, or call <a href="tel:+17202487368">(720) 248-7368</a>. We'll talk about your situation, whether psilocybin facilitation is a good fit, and what working together would look like.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- CTA Banner -->
   <section class="cta-banner" aria-labelledby="cta-heading">
     <div class="container">
@@ -302,6 +391,15 @@
     toggle.addEventListener('click', () => {
       const open = menu.classList.toggle('open');
       toggle.setAttribute('aria-expanded', open);
+    });
+    document.querySelectorAll('.faq-question').forEach(q => {
+      q.addEventListener('click', () => {
+        const item = q.closest('.faq-item');
+        const wasOpen = item.classList.contains('open');
+        document.querySelectorAll('.faq-item').forEach(i => { i.classList.remove('open'); i.querySelector('.faq-question').setAttribute('aria-expanded','false'); });
+        if (!wasOpen) { item.classList.add('open'); q.setAttribute('aria-expanded','true'); }
+      });
+      q.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); q.click(); }});
     });
   </script>
 </body>

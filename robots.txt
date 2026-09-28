@@ -42,6 +42,6 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-# Site summary for AI assistants: https://www.annemetz.com/llms.txt
+# Site summary for AI assistants: https://annemetz.com/llms.txt
 
-Sitemap: https://www.annemetz.com/sitemap.xml
+Sitemap: https://annemetz.com/sitemap.xml

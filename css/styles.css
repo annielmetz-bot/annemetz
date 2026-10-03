@@ -541,6 +541,11 @@ h1.eyebrow {
 .divider-left { margin: 0 0 2rem; }
 
 /* --- Responsive --- */
+@media (max-width: 1080px) {
+  .nav-links { display: none; }
+  .nav-toggle { display: flex; }
+}
+
 @media (max-width: 1024px) {
   .cards-3 { grid-template-columns: repeat(2, 1fr); }
   .stats-strip { grid-template-columns: repeat(2, 1fr); }

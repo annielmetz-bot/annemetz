@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | Dr. Anne Metz, PhD, LPC</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+</head>
+<body>
+
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">Anne Metz, PhD, LPC</a>
+      <ul class="nav-links">
+        <li><a href="/psilocybin-for-women.html">Psilocybin for Women</a></li>
+        <li><a href="/psilocybin-facilitation.html">How It Works</a></li>
+        <li><a href="/preparation-integration.html">Prep &amp; Integration</a></li>
+        <li><a href="/new-mexico.html">Taos</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/testimonials.html">Testimonials</a></li>
+        <li><a href="/contact.html" class="nav-cta">Free Consultation</a></li>
+      </ul>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false" id="navToggle">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <div class="mobile-menu" id="mobileMenu" role="navigation">
+    <a href="/psilocybin-for-women.html">Psilocybin for Women</a>
+    <a href="/psilocybin-facilitation.html">How It Works</a>
+    <a href="/preparation-integration.html">Prep &amp; Integration</a>
+    <a href="/new-mexico.html">Taos</a>
+    <a href="/about.html">About Anne</a>
+    <a href="/testimonials.html">Testimonials</a>
+    <a href="/contact.html">Free Consultation</a>
+  </div>
+
+  <section class="section" style="min-height: 60vh; display: flex; align-items: center;">
+    <div class="container" style="max-width: 600px; text-align: center;">
+      <p class="eyebrow">Page not found</p>
+      <h1 style="margin-bottom: 1.5rem;">This page has moved or no longer exists</h1>
+      <p style="font-size: 1.1rem; color: var(--muted); margin-bottom: 2rem;">The link you followed may be out of date. These pages may have what you were looking for.</p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem;">
+        <a href="/psilocybin-for-women.html" class="btn btn-outline">Psilocybin for Women</a>
+        <a href="/psilocybin-facilitation.html" class="btn btn-outline">How It Works</a>
+        <a href="/new-mexico.html" class="btn btn-outline">Taos, New Mexico</a>
+        <a href="/preparation-integration.html" class="btn btn-outline">Prep &amp; Integration</a>
+        <a href="/about.html" class="btn btn-outline">About Dr. Metz</a>
+      </div>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/" class="btn btn-primary">Back to home</a>
+        <a href="/contact.html" class="btn btn-primary">Free Consultation</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>&copy; 2026 Anne Metz, PhD, LPC. All rights reserved.</span>
+        <span>New Mexico</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('navToggle');
+    const menu = document.getElementById('mobileMenu');
+    toggle.addEventListener('click', () => {
+      const open = menu.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+    });
+  </script>
+  <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1e36675c52604afd83d7ce62be62b9ba"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>

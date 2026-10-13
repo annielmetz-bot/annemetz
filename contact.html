@@ -60,8 +60,9 @@
   <header class="page-hero">
     <div class="container">
       <p class="eyebrow">Get in Touch</p>
-      <h1>Schedule a free consultation</h1>
+      <h1>Request a free consultation</h1>
       <p>Considering psilocybin therapy or women's counseling — or not sure yet? A free 15-minute consultation is the right first step. No pressure, no obligation. Just honest information about whether this work is a good fit for you.</p>
+      <p style="font-size: 0.95rem;">This form is a request for a consultation, not a booking confirmation. Dr. Metz reviews each request before following up.</p>
     </div>
   </header>
 
@@ -103,7 +104,7 @@
 
         <!-- Contact Form -->
         <div>
-          <h2 style="margin-bottom: 2rem;">Send a message</h2>
+          <h2 style="margin-bottom: 2rem;">Request a consultation</h2>
           <form name="contact" method="POST" action="https://formspree.io/f/mykanzla" aria-label="Contact form" style="display: flex; flex-direction: column; gap: 1.2rem;">
             <input type="hidden" name="_subject" value="New consultation request — annemetz.com">
             <input type="hidden" name="_next" value="https://annemetz.com/thank-you.html">
@@ -154,7 +155,21 @@
 
             <p style="font-size: 0.85rem; color: var(--muted);">Please don't include health information, symptoms, or details about substance use in this form. It isn't a secure way to share them. I'll ask about what brings you here during the free consultation.</p>
 
-            <button type="submit" class="btn btn-primary" style="align-self: flex-start;">Send Message</button>
+            <div style="font-size: 0.85rem; color: var(--muted); border-left: 2px solid var(--gold); padding-left: 1rem;">
+              <p style="margin-bottom: 0.5rem;"><strong>Please note:</strong></p>
+              <ul style="margin: 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 0.35rem;">
+                <li>This is a request for a consultation, not a booking confirmation.</li>
+                <li>Dr. Metz will review your request before proceeding and will contact you if a consultation is a fit.</li>
+                <li>Filling out this form does not create a provider-patient relationship with Dr. Metz.</li>
+                <li>Dr. Metz reserves the right to decline a consultation request if it is not a fit.</li>
+              </ul>
+              <label style="display: flex; align-items: flex-start; gap: 0.6rem; margin-top: 0.75rem; cursor: pointer;">
+                <input type="checkbox" name="request_acknowledgment" value="yes" required style="margin-top: 2px; flex-shrink: 0;">
+                I understand that submitting this form is a request only and does not schedule a consultation or create a provider-patient relationship.
+              </label>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="align-self: flex-start;">Submit Request</button>
             <p style="font-size: 0.8rem; color: var(--muted);">I typically respond within one business day. For urgent concerns, please call or email directly.</p>
           </form>
         </div>

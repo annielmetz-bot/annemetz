@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | Anne Metz LLC</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+</head>
+<body>
+
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Anne Metz, PhD, LPC</a>
+      <ul class="nav-links">
+        <li><a href="womens-therapy.html">Counseling for Women</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="testimonials.html">Testimonials</a></li>
+        <li><a href="index.html#faq">FAQ</a></li>
+        <li><a href="contact.html" class="nav-cta">Request a Consultation</a></li>
+      </ul>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false" id="navToggle">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <div class="mobile-menu" id="mobileMenu" role="navigation">
+    <a href="womens-therapy.html">Counseling for Women</a>
+    <a href="about.html">About Anne</a>
+    <a href="testimonials.html">Testimonials</a>
+    <a href="index.html#faq">FAQ</a>
+    <a href="contact.html">Request a Consultation</a>
+  </div>
+
+  <!-- PLACEHOLDER: LEGAL. Replace this section with the privacy notice drafted by the attorney. Do not publish until the attorney's text is in place. -->
+  <section class="section" style="min-height: 60vh;">
+    <div class="container" style="max-width: 760px;">
+      <p class="eyebrow">Anne Metz LLC</p>
+      <h1 style="margin-bottom: 1.5rem;">Privacy Policy</h1>
+      <p>[PLACEHOLDER: LEGAL — privacy notice to be supplied by the attorney.]</p>
+    </div>
+  </section>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <div class="nav-logo">Anne Metz, PhD, LPC</div>
+          <p>Counseling for women in New Mexico and by telehealth.</p>
+          <p class="footer-tagline">Navigating the threshold between who you've been and who you're becoming.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="womens-therapy.html">Counseling for Women</a></li>
+            <li><a href="contact.html">Request a Consultation</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>About</h4>
+          <ul>
+            <li><a href="about.html">About Anne</a></li>
+            <li><a href="testimonials.html">Testimonials</a></li>
+            <li><a href="index.html#other-businesses">Other Businesses</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+          </ul>
+        </div>
+        <div class="footer-col footer-contact">
+          <h4>Contact</h4>
+          <p><a href="tel:+14345312396">434-531-2396</a></p>
+          <p><a href="mailto:anne@annemetz.com">anne@annemetz.com</a></p>
+          <p style="margin-top:1rem; font-size:0.85rem; opacity:0.6;">Licensed in CO · NM · OR · CA · VA</p>
+          <a href="contact.html" class="btn btn-gold mt-3" style="font-size:0.75rem; padding:0.7rem 1.4rem;">Request a Consultation</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2026 Anne Metz LLC. All rights reserved.</span>
+        <span>New Mexico · Telehealth</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('navToggle');
+    const menu = document.getElementById('mobileMenu');
+    toggle.addEventListener('click', () => {
+      const open = menu.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+    });
+  </script>
+</body>
+</html>

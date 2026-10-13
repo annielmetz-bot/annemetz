@@ -21,7 +21,7 @@
       "sameAs": ["https://www.linkedin.com/in/annemetz/"],
       "telephone": "+14345312396",
       "email": "anne@annemetz.com",
-      "address": {"@type": "PostalAddress", "postOfficeBoxNumber": "595", "addressLocality": "Arroyo Seco", "addressRegion": "NM", "postalCode": "87514", "addressCountry": "US"}
+      "address": {"@type": "PostalAddress", "addressRegion": "NM", "addressCountry": "US"}
     }
   }
   </script>
@@ -75,9 +75,8 @@
             <p style="font-size: 1.2rem;"><a href="mailto:anne@annemetz.com" style="color: var(--dark);">anne@annemetz.com</a></p>
           </div>
           <div style="margin-bottom: 1.5rem;">
-            <p style="font-size: 0.75rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.4rem;">Mailing Address</p>
-            <!-- PLACEHOLDER: confirm with Anne that the PO Box should appear publicly -->
-            <p>PO Box 595<br>Arroyo Seco, NM 87514</p>
+            <p style="font-size: 0.75rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.4rem;">Location</p>
+            <p>New Mexico</p>
             <p style="color: var(--muted); font-size: 0.9rem;">Sessions by telehealth, by appointment, for adults 18 and older.</p>
           </div>
           <div>
@@ -139,22 +138,16 @@
               </label>
             </div>
 
-            <!-- Age -->
+            <!-- State -->
             <div>
-              <label for="age" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Age</label>
-              <input type="number" id="age" name="age" min="18" max="100" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="Your age">
+              <label for="state" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">State of residence</label>
+              <input type="text" id="state" name="state" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="e.g., New Mexico">
             </div>
 
-            <!-- Location -->
+            <!-- Message -->
             <div>
-              <label for="location" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Where do you live?</label>
-              <input type="text" id="location" name="location" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="City, State">
-            </div>
-
-            <!-- Best time to reach you -->
-            <div>
-              <label for="best_time" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Best time to reach you (optional)</label>
-              <input type="text" id="best_time" name="best_time" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px;" placeholder="e.g., weekday mornings">
+              <label for="message" style="display: block; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; color: var(--muted);">Short message (optional)</label>
+              <textarea id="message" name="message" rows="3" maxlength="500" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--sand); background: var(--white); font-family: var(--sans); font-size: 0.97rem; color: var(--text); outline: none; border-radius: 2px; resize: vertical;" placeholder="e.g., a good time to call"></textarea>
             </div>
 
             <p style="font-size: 0.85rem; color: var(--muted);">Please don't include health information, symptoms, or details about substance use in this form. It isn't a secure way to share them. I'll ask about what brings you here during the free consultation.</p>

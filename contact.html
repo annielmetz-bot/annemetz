@@ -152,12 +152,18 @@
 
             <p style="font-size: 0.85rem; color: var(--muted);">Please don't include health information, symptoms, or details about substance use in this form. It isn't a secure way to share them. I'll ask about what brings you here during the free consultation.</p>
 
-            <p style="font-size: 0.85rem; color: var(--muted);">Please read the <a href="privacy-policy.html">Privacy Policy</a> before submitting this form.</p>
+            <p style="font-size: 0.85rem; color: var(--muted);">How this form is handled: the information you enter goes to me through Formspree and is used only to review your request and reply to you. It is not added to a marketing list and is not shared for advertising. The <a href="privacy-policy.html">Privacy Notice</a> explains this in full; <a href="privacy-choices.html">Your Privacy Choices</a> explains how to ask me to correct or delete it.</p>
 
             <label style="display: flex; align-items: flex-start; gap: 0.6rem; font-size: 0.85rem; color: var(--muted); cursor: pointer;">
               <input type="checkbox" name="request_acknowledgment" value="yes" required style="margin-top: 2px; flex-shrink: 0;">
               I understand that submitting this form is a request only and does not schedule a consultation or create a provider-patient relationship.
             </label>
+
+            <label style="display: flex; align-items: flex-start; gap: 0.6rem; font-size: 0.85rem; color: var(--muted); cursor: pointer;">
+              <input type="checkbox" name="terms_acceptance" value="yes" required style="margin-top: 2px; flex-shrink: 0;">
+              I accept the website <a href="privacy-policy.html">Terms of Use</a> and have read the <a href="privacy-policy.html">Privacy Notice</a>. (Accepting these is not consent to treatment or to any use of my health information.)
+            </label>
+            <input type="hidden" name="terms_version" value="2026-11-15">
 
             <button type="submit" class="btn btn-primary" style="align-self: flex-start;">Submit Request</button>
             <p style="font-size: 0.8rem; color: var(--muted);">This form is not for urgent concerns. If you are in crisis, call or text 988 or call 911.</p>
@@ -188,7 +194,7 @@
             <li><a href="about.html">About Anne</a></li>
             <li><a href="testimonials.html">Testimonials</a></li>
             <li><a href="index.html#other-businesses">Other Businesses</a></li>
-            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="privacy-policy.html">Privacy &amp; Terms</a></li>
           </ul>
         </div>
         <div class="footer-col footer-contact">
@@ -201,6 +207,7 @@
       </div>
       <div class="footer-bottom">
         <span>&copy; 2026 Anne Metz LLC. All rights reserved.</span>
+        <span class="footer-policies"><a href="privacy-policy.html">Privacy &amp; Terms</a> · <a href="cookie-settings.html">Cookie Settings</a> · <a href="privacy-choices.html">Your Privacy Choices</a> · <a href="good-faith-estimate.html">Good Faith Estimate Rights</a></span>
         <span>New Mexico · Telehealth</span>
       </div>
     </div>

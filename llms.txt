@@ -22,4 +22,7 @@
 - [About Dr. Metz](https://annemetz.com/about.html): Biography, education, training, and licensure
 - [Testimonials](https://annemetz.com/testimonials.html): Client testimonials
 - [Contact](https://annemetz.com/contact.html): Request a free 15-minute consultation
-- [Privacy Policy](https://annemetz.com/privacy-policy.html)
+- [Privacy Notice and Terms of Use](https://annemetz.com/privacy-policy.html)
+- [Cookie Settings](https://annemetz.com/cookie-settings.html): The site sets no cookies and uses no analytics or advertising tools
+- [Your Privacy Choices](https://annemetz.com/privacy-choices.html): How to request access, correction, or deletion of information submitted through the site
+- [Good Faith Estimate Rights](https://annemetz.com/good-faith-estimate.html): Notice of the right to a Good Faith Estimate under the No Surprises Act
